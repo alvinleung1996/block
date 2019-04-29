@@ -1,0 +1,17 @@
+{
+  "name": "@alvinleung1996/block",
+  "version": "1.0.0",
+  "description": "BEM for lit-html",
+  "main": "./block.js",
+  "author": "Alvin Leung 1996",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "lit-html": "^1.0.0"
+  }
+}
